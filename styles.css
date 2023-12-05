@@ -1,0 +1,14 @@
+/* Add CSS for gallery and modal */
+.gallery {
+    /* Define styles for the gallery container */
+}
+.gallery-img {
+    /* Define styles for each image in the gallery */
+}
+.modal {
+    /* Define styles for the modal container */
+    display: none;
+    position: fixed;
+    /* Add necessary styles for modal positioning and appearance */
+}
+/* Add styles for other necessary elements like close button, modal content, etc. */
